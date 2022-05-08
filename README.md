@@ -57,7 +57,7 @@ Please adhere to this project's `code of conduct`.
 To see the final result just click the link in bellow, and boommmm.....or copy and paste it in any browser....
 ```bash
   cd Downloads
-  git clone 
+  git clone https://github.com/Mrkarfa/EduGrad-Online-learning-platform.git
   npm run build
 ```
 
